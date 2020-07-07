@@ -1,0 +1,2 @@
+C:\Users\gugag\OneDrive\Área de Trabalho\CrudPessoas\Infra.Excel\obj\Debug\Infra.Excel.csprojAssemblyReference.cache
+C:\Users\gugag\OneDrive\Área de Trabalho\CrudPessoas\Infra.Excel\obj\Debug\Infra.Excel.csproj.CoreCompileInputs.cache
